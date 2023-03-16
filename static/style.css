@@ -80,5 +80,7 @@ body {
   .button-style {
     /* Set the position to absolute so that it can be positioned relative to its parent container */
     position: absolute;
+    display: block;
+    width: 100%;
   }
     /* Make the button a block element so that it takes up the full width of its container 

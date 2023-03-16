@@ -36,24 +36,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }, 5000);
 });
-
-
-
-
-//document.addEventListener("DOMContentLoaded", () => {
-   // const button = document.querySelector("#generate-button");
-   // console.log(button);
-   // button.addEventListener("mouseover", setRandomPosition);
-  
-   // function setRandomPosition() {
-    //  const screenWidth = window.innerWidth;
-    //  const screenHeight = window.innerHeight;
-    //  const buttonWidth = button.offsetWidth;
-     // const buttonHeight = button.offsetHeight;
-    //  const x = Math.floor(Math.random() * (screenWidth - buttonWidth));
-     // const y = Math.floor(Math.random() * (screenHeight - buttonHeight));
-    // button.style.left = x + "px";
-    //  button.style.top = y + "px";
-   // }
- // });
-  
