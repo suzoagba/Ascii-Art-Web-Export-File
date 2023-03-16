@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="icon" type="image/x-icon" href="/fav.ico" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+  <div class="error">
+    <div class="status_code">{{.StatusCode}}</div>
+    <div class="err_message">{{.ErrMsg}}</div>
+    <form action="/">
+      <input type="submit" value="Go to home page" class="error-button-style" />
+    </form>
+  </div>
+</body>
