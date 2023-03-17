@@ -1,23 +1,16 @@
-<p style='text-align: justify;'></p>
-
-## ASCII Art Web
+## ASCII Art Web-Export-File
 
 ### Group Members
 
 - Samuel Uzoagba
 - Jeremiah Bakere
+- Jude Eze
 
 ### DESCRIPTION
 
 The program allows users to draw ASCII Art from the input and save result as txt file.  
 Users are supposed to input only ASCII characters.  
 Users are given three options of banner type i.e. _standard_, _shadow_, _thinkertoy_
-
-The current project also includes :
-
-- [✔] Stylize
-- [✔] Export
-- [✔] Dockerize
 
 ### USAGE
 
@@ -35,12 +28,6 @@ go run main.go
 
 ---
 
-#### Run with Docker
-
-1. Run docker_run.sh
-2. Follow usage section from line 2 onwards
-3. When done, run docker_stop.sh
-
 ### Allowed Packages
 
 - Only the [standard go](https://golang.org/pkg/) packages are allowed.
@@ -48,7 +35,3 @@ go run main.go
 ### Audit Details
 
 - Here you can see [audit details](https://github.com/01-edu/public/tree/master/subjects/ascii-art-web/audit).
-
-```
-
-```

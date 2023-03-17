@@ -1,10 +1,10 @@
 package main
 
 import (
-	"01.kood.tech/suzoagba/ascii-art-web/handlers"
 	"fmt"
 	"log"
 	"net/http"
+	"01.kood.tech/suzoagba/ascii-art-web/handlers"
 )
 
 func main() {

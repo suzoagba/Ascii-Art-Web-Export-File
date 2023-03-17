@@ -19,7 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
     event.target.style.backgroundColor = randomColor();
     event.target.style.borderRadius = `${Math.floor(Math.random() * 50)}%`;
     
-    playSound();
   }
 
   function randomColor() {
